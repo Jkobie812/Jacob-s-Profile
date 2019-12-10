@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+- name: GitHub Pages
+  uses: crazy-max/ghaction-github-pages@v1.2.5
